@@ -26,19 +26,14 @@ I am a results-driven **Lead Mobile Developer** with over **3 years of professio
 
 ### 🌟 Featured Projects
 
-#### 🏢 Enterprise & Marketplaces
-*   **[Finsly](https://finsly.app/)** - Comprehensive Multi-Vendor E-commerce platform with Stripe Connect integration.
-*   **Renko Ecosystem** - Consumer-facing E-commerce app & powerful Partner/Seller management tool.
-*   **Tawil TrulyIslamic** - Islamic lifestyle application with AI-indexed Hadees search and travel services.
-
-#### 🤖 AI & Innovation
-*   **[Rise Rich AI](https://riserich.ai/)** - Sophisticated AI financial coach for personalized wealth management.
-*   **HairGPT AI** - AI-driven beauty tech app for virtual hair styling try-ons using Computer Vision.
-*   **AR Drawing Sketch** - ArCore/ArKit enhanced creativity app for real-time 3D sketch projection.
-
-#### 🏥 Specialized Platforms
-*   **JZab Therapy** - On-demand education platform with live streaming and a robust Flutter Web admin portal.
-*   **Rio Live Streaming** - High-performance low-latency video platform using Agora SDK & WebRTC.
+*   🚀 **[Finsly](https://finsly.app/)** — Enterprise-grade Multi-Vendor E-commerce with Stripe Connect.
+*   🤖 **[Rise Rich AI](https://riserich.ai/)** — Sophisticated AI financial coach for wealth management.
+*   🌙 **Tawil TrulyIslamic** — Islamic Companion with AI-indexed Hadees search and travel booking.
+*   🛍️ **Renko Ecosystem** — High-scale E-commerce consumer app and partner admin dashboard.
+*   📺 **Rio Live Streaming** — Low-latency video platform using Agora SDK and WebRTC.
+*   🎨 **AR Drawing Sketch** — ArCore/ArKit enhanced creativity app for 3D sketch projection.
+*   💇 **HairGPT AI** — AI-driven beauty tech app for virtual styling and Computer Vision analysis.
+*   🏥 **JZab Therapy** — Professional therapy education platform with live classes and web portal.
 
 ---
 
