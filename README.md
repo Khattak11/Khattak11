@@ -3,7 +3,7 @@
 # 🚀 Hi, I'm Touseef Khattak
 ### **Lead Mobile & AI Developer | Flutter Expert | Node.js Architect**
 
-[![Typing Support](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0068CB&center=true&vCenter=true&width=435&lines=Building+Scalable+Mobile+Apps;AI+Integrated+Solutions;3%2B+Years+of+Experience;Clean+Code+Enthusiast)](https://git.io/typing-svg)
+[![Typing Support](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0068CB&center=true&vCenter=true&width=500&lines=Building+Scalable+Mobile+Apps;AI+Integrated+Solutions;3%2B+Years+of+Experience;Clean+Code+Enthusiast)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Islamabad%2C%20PK-blue?style=flat-square&logo=googlemaps&logoColor=white" />
@@ -24,6 +24,24 @@ I am a results-driven **Lead Mobile Developer** with over **3 years of professio
 
 ---
 
+### 🌟 Featured Projects
+
+#### 🏢 Enterprise & Marketplaces
+*   **[Finsly](https://finsly.app/)** - Comprehensive Multi-Vendor E-commerce platform with Stripe Connect integration.
+*   **Renko Ecosystem** - Consumer-facing E-commerce app & powerful Partner/Seller management tool.
+*   **Tawil TrulyIslamic** - Islamic lifestyle application with AI-indexed Hadees search and travel services.
+
+#### 🤖 AI & Innovation
+*   **[Rise Rich AI](https://riserich.ai/)** - Sophisticated AI financial coach for personalized wealth management.
+*   **HairGPT AI** - AI-driven beauty tech app for virtual hair styling try-ons using Computer Vision.
+*   **AR Drawing Sketch** - ArCore/ArKit enhanced creativity app for real-time 3D sketch projection.
+
+#### 🏥 Specialized Platforms
+*   **JZab Therapy** - On-demand education platform with live streaming and a robust Flutter Web admin portal.
+*   **Rio Live Streaming** - High-performance low-latency video platform using Agora SDK & WebRTC.
+
+---
+
 ### 🛠️ My Tech Stack
 
 | Category | Tools & Technologies |
@@ -32,15 +50,6 @@ I am a results-driven **Lead Mobile Developer** with over **3 years of professio
 | **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Stripe](https://img.shields.io/badge/Stripe-626fef?style=flat&logo=stripe&logoColor=white) |
 | **AI & DB** | ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) |
 | **DevOps** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Codemagic](https://img.shields.io/badge/Codemagic-00B0FF?style=flat&logo=codemagic&logoColor=white) |
-
----
-
-### 🌟 Featured Projects
-
-*   **[Finsly](https://finsly.app/)** - Enterprise-grade Multi-Vendor E-commerce with Stripe Connect.
-*   **[Rise Rich AI](https://riserich.ai/)** - AI-powered financial wealth management coach.
-*   **[Tawil](https://play.google.com/store)** - Islamic Companion with AI-indexed Hadees search.
-*   **[JZab](https://jzab.app/)** - Therapy platform featuring live streaming and admin dashboards.
 
 ---
 
