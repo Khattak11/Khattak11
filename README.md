@@ -8,6 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Islamabad%2C%20PK-blue?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Open%20To%20Collaborate-green?style=flat-square" />
+  <a href="https://touseefkhattak.dev"><img src="https://img.shields.io/badge/Website-touseefkhattak.dev-0068CB?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 ---
@@ -58,6 +59,7 @@ I am a results-driven **Lead Mobile Developer** with over **3 years of professio
 
 ### 🤝 Connect With Me
 <p align="left">
+<a href="https://touseefkhattak.dev" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-touseefkhattak.dev-0068CB?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/touseef-khattak-16874123a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="touseef-khattak" height="30" width="40" /></a>
 <a href="https://www.instagram.com/touseefkhattak88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="touseefkhattak88" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=61558628913335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="touseefkhattak" height="30" width="40" /></a>
